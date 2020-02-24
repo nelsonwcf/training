@@ -1,1 +1,1 @@
-# training
+Personal folder for sharing training exercises
