@@ -12,6 +12,9 @@ matplotlib = "*"
 jupyter = "*"
 tensorflow = "*"
 jupyterthemes = "*"
+numpy = "*"
+seaborn = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.7"
